@@ -1,0 +1,54 @@
+img{
+    width: 30%;
+    float: left;
+    margin: 1.66%;
+   
+}
+
+P{
+    margin-left: 1.66%;
+}
+
+h2 h5{
+    color: white;
+}
+
+#subs{
+    display: flex;
+}
+
+.links{
+    color: white;
+}
+.links:hover{
+    color: white;
+    background-color:  rgb(227, 111, 111);
+    
+}
+
+.image{
+    width: 100%;
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+}
+
+.image.lasagne{
+    background-image: url(images/veganLasagne.jpg);
+}
+
+.image.fajitas{
+    background-image: url(images/fajitas3.jpg);
+}
+
+.image.burger{
+    background-image: url(images/burger.jpg);
+}
+
+.margin{
+    margin-top: 3%;
+}
+
+.margin2{
+    margin-top: 3%;
+}

@@ -1,0 +1,38 @@
+body{
+    background-color: lightcoral;
+    font-family: "Nunito", sans-serif;
+    color: white;
+    padding: 7%;
+    text-transform: uppercase;
+
+}
+
+.marginNavbar{
+  
+    background-color:  rgba(227, 111, 111, .7);
+}
+#mainNavbar .navbar-brand{
+    color:white;
+    font-size: 1.5rem;
+    font-weight: 100;
+    margin-left: 20px;
+}
+
+.navbar-toggler{
+    margin-right: 10px;
+    border: 3px solid transparent;
+}
+
+.navbar-dark .navbar-nav .nav-link{
+    color: white;
+}
+
+.navbar-nav .nav-link{
+    padding-left: 1%;
+}
+
+.navbar-dark .navbar-toggler{
+    color: white;
+    border-color: white;
+    
+}
